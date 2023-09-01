@@ -1,4 +1,4 @@
-# week3challenge-html
+# Password Generator Starter Code
 
 User Story
 
