@@ -13,7 +13,7 @@ var specialCharacters = "!#$%'()*+,-./:;<=>?@[\\\"]^_`{|}~";
 var numbers = "1234567890";
 function generatePassword(){
 
-  var passwordLength = parseInt(prompt ("Password must be at least 8 characters and no more than 128 characters"));
+  var passwordLength = parseInt(prompt ("PLEASE CHOOSE HOW MANY CHARACTERS IN YOUR PASSWORD BETWEEN 8 - 128"));
 
   if (passwordLength<8){
     alert ("PASSWORD MUST BE AT LEAST 8 CHARACTERS");
